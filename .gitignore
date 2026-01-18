@@ -1,1 +1,7 @@
-data/
+/data/processed/
+/models/
+/experiments/
+*.log
+__pycache__/
+.env
+/venv/
